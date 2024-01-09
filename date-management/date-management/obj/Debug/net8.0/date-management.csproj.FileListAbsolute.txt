@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\csharp-date-management\date-management\date-management\obj\Debug\net8.0\date-management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\csharp-date-management\date-management\date-management\obj\Debug\net8.0\date-management.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\csharp-date-management\date-management\date-management\obj\Debug\net8.0\date-management.AssemblyInfo.cs
+C:\Users\Usuario\Documents\csharp-date-management\date-management\date-management\obj\Debug\net8.0\date-management.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\csharp-date-management\date-management\date-management\bin\Debug\net8.0\date-management.exe
+C:\Users\Usuario\Documents\csharp-date-management\date-management\date-management\bin\Debug\net8.0\date-management.deps.json
+C:\Users\Usuario\Documents\csharp-date-management\date-management\date-management\bin\Debug\net8.0\date-management.runtimeconfig.json
+C:\Users\Usuario\Documents\csharp-date-management\date-management\date-management\bin\Debug\net8.0\date-management.dll
+C:\Users\Usuario\Documents\csharp-date-management\date-management\date-management\bin\Debug\net8.0\date-management.pdb
+C:\Users\Usuario\Documents\csharp-date-management\date-management\date-management\obj\Debug\net8.0\date-management.dll
+C:\Users\Usuario\Documents\csharp-date-management\date-management\date-management\obj\Debug\net8.0\refint\date-management.dll
+C:\Users\Usuario\Documents\csharp-date-management\date-management\date-management\obj\Debug\net8.0\date-management.pdb
+C:\Users\Usuario\Documents\csharp-date-management\date-management\date-management\obj\Debug\net8.0\date-management.genruntimeconfig.cache
+C:\Users\Usuario\Documents\csharp-date-management\date-management\date-management\obj\Debug\net8.0\ref\date-management.dll
